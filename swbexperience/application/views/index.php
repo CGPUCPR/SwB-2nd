@@ -92,10 +92,11 @@
 						<li>
 							<a href="#galeria">Galeria</a>
 						</li>
+						<!--
 						<li>
 							<a href="index.php/swb2/inscricoes">incrições</a>
 						</li>
-						
+						-->
 					</ul>
 					<ul  class="nav navbar-nav navbar-right">
 						<li class="dropdown">
