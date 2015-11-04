@@ -86,17 +86,17 @@
 						<li>
 							<a href="#programacao">Programação</a>
 						</li>
+						<!--
 						<li>
 							<a href="#reports">Reports</a>
 						</li>
+						-->
 						<li>
 							<a href="#galeria">Galeria</a>
 						</li>
-						<!--
 						<li>
-							<a href="index.php/swb2/inscricoes">incrições</a>
+							<a href="https://cip.pucpr.br/index.php/swb2/inscricoes" target="_blank">Inscrições</a>
 						</li>
-						-->
 					</ul>
 					<ul  class="nav navbar-nav navbar-right">
 						<li class="dropdown">
@@ -129,13 +129,16 @@
 					<div class="row">
 						<div class="col-md-6">
 							<h2 style="color:#fff; margin: 30px 0 30px;">Inscreva-se pelo site até o </br>
-							dia <strong>06 de Novembro</strong></h2>
+							dia <strong>08 de Novembro</strong></h2>
 						</div>
 						<div class="col-md-6">
 							<h2 style="margin: 43px 0 30px;">
-							<button href="#" class="btn btn-block btn-lg btn-info" style="color:#fff; border-color:#fff;">
+								<a href="https://cip.pucpr.br/index.php/swb2/inscricoes"  target="_blank">
+							<button href="https://cip.pucpr.br/index.php/swb2/inscricoes" class="btn btn-block btn-lg btn-info" style="color:#fff; border-color:#fff;">
 								Inscreva-se
-							</button></h2>
+							</button>
+							</a>
+							</h2>
 						</div>
 					</div>
 				</div>
@@ -236,7 +239,7 @@
 				<br/>
 				<br/>
 			</div>
-			<!--  Section 4 - Reports -->
+			<!--  Section 4 - Reports 
 			
 			<div class="container-fluid" style="background-color:#7a282e;">
 				<div class="container">
@@ -257,6 +260,8 @@
 					</div>
 				</div>
 			</div>
+			-->
+			
 			<!--  Section 5 - Galeria -->
 			<a id="galeria"></a>
 			<div id="carousel">
@@ -297,10 +302,14 @@
 				<div class="container">
 					<div class="pull-left">
 						<h2 style="margin: 12px 0 30px;">
+							<!-- apresentações para baixar
 						<button href="#" class="btn btn-default">
 							Baixe a apresentação
-						</button></h2>
+						</button>
+						-->
+						</h2>
 					</div>
+					
 					<nav class="pull-right">
 						<ul  class="nav navbar-nav navbar-left">
 							<li>
@@ -315,9 +324,11 @@
 							<li>
 								<a href="#programacao">Programação</a>
 							</li>
+							<!--
 							<li>
 								<a href="#reports">Reports</a>
 							</li>
+							-->
 							<li>
 								<a href="#galeria">Galeria</a>
 							</li>
