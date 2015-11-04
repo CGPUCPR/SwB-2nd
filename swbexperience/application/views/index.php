@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="br">
 	<head>
-		<meta charset="utf-8" />
+		<meta charset="ISO-8859-1" />
 		<link rel="icon" type="image/png" href="assets/img/favicon.ico">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<title>PUCPR - SWB Experience</title>
@@ -15,7 +15,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
 		<link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
-		<!--	CustomizaÃ§Ã£o		-->
+		<!--	Customização		-->
 		<link href="css/style.css" rel="stylesheet">
 		<script>
 			(function(i, s, o, g, r, a, m) {
@@ -84,7 +84,7 @@
 							<a href="#palestrante">Palestrante</a>
 						</li>
 						<li>
-							<a href="#programacao">Programação</a>
+							<a href="#programacao">Programa&#65533;&#65533;o</a>
 						</li>
 						<li>
 							<a href="#reports">Reports</a>
@@ -99,7 +99,7 @@
 					</ul>
 					<ul  class="nav navbar-nav navbar-right">
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <img src="assets/img/flags/BR.png" data-pin-nopin="true"> Português<span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <img src="assets/img/flags/BR.png" data-pin-nopin="true"> Portugu&#65533;s<span class="caret"></span></a>
 							</a>
 							<ul class="dropdown-menu">
 								<li>
@@ -120,14 +120,14 @@
 					</div>
 				</div>
 			</div>
-			<!--Section InscriÃ§Ãµes-->
+			<!--Section Inscrições-->
 						<a id="conheca"></a>
 
 			<div class="container-fluid" style="background-color:#7a282e;">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<h2 style="color:#fff; margin: 30px 0 30px;">Inscreva-se pelo site até o </br>
+							<h2 style="color:#fff; margin: 30px 0 30px;">Inscreva-se pelo site at&eacute; o </br>
 							dia <strong>06 de Novembro</strong></h2>
 						</div>
 						<div class="col-md-6">
@@ -139,24 +139,24 @@
 					</div>
 				</div>
 			</div>
-			<!--Section 1 -  ConheÃ§a o SWB-->
+			<!--Section 1 -  Conheça o SWB-->
 			<div class="section">
 				<div class="container">
 					<div class="row">
 						<h1 id="conheca"></h1>
 						<div class="col-md-6 pull-left">
-							<h2 style="color:#a6272f; padding-left:10px;"><strong>Conheça</strong>
+							<h2 style="color:#a6272f; padding-left:10px;"><strong>Conhe&#65533;a</strong>
 							<br/>
 							o encontro</h2>
 							<br/>
 							<p>
-								Este evento traz a oportunidade de encontro de todos os estudantes bolsistas do Ciência sem Fronteiras da PUCPR que já retornaram para PUCPR, criando um espaço para compartilhar experiências, relembrar das coisas boas da viagem.
+								Este evento traz a oportunidade de encontro de todos os estudantes bolsistas do Ci&ecirc;ncia sem Fronteiras da PUCPR que j&#65533; retornaram para PUCPR, criando um espa&ccedil;o para compartilhar experi&ecirc;ncias, relembrar das coisas boas da viagem.
 								<br/>
 								<br/>
-								A PUCPR também quer saber dos bolsistas quais foram as melhores experiências que tiveram na Universidade Destino, bem como as experiências ruins.
+								A PUCPR tamb&#65533;m quer saber dos bolsistas quais foram as melhores experi&#65533;ncias que tiveram na Universidade Destino, bem como as experi&#65533;ncias ruins.
 								<br/>
 								<br/>
-								Você tem alguma sugestão de coisas que viu lá fora e acha que seria ótimo e viável ter na PUCPR? Ter no seu curso de graduação? Ou vivenciou algum problema que poderia ter sido evitado?
+								Voc&#65533; tem alguma sugest&#65533;o de coisas que viu l&#65533; fora e acha que seria &#65533;timo e vi&#65533;vel ter na PUCPR? Ter no seu curso de gradua&#65533;&#65533;o? Ou vivenciou algum problema que poderia ter sido evitado?
 							</p>
 						</div>
 						
@@ -183,11 +183,11 @@
 								<br/>
 								o palestrante</h2>
 								<p  style="color:#fff;">
-									Orgulhosamente manezinho da Ilha, Alex nasceu na maravilhosa Ilha de Santa Catarina, estudou na Universidade Federal de Santa Catarina, e em 2003 aventurou-se num estágio em Potsdam, na Alemanha. 
+									Orgulhosamente manezinho da Ilha, Alex nasceu na maravilhosa Ilha de Santa Catarina, estudou na Universidade Federal de Santa Catarina, e em 2003 aventurou-se num est&#65533;gio em Potsdam, na Alemanha. 
 									</br></br> 
-									Se apaixonou pelo mundo e nunca mais voltou, no caminho trabalhou como "Jack of all trades" em Londres, fez mestrado no Canadá, foi trainee e gerente de projetos para a Nestlé, na Suíça, e completou seu MBA na Harvard Business School, em Boston, EUA. Trabalhou como Senior Associate Consultant da maior empresa de consultoria do mundo, a McKinsey & Company. 
+									Se apaixonou pelo mundo e nunca mais voltou, no caminho trabalhou como "Jack of all trades" em Londres, fez mestrado no Canad&#65533;, foi trainee e gerente de projetos para a Nestl&#65533;, na Su&#65533;&#65533;a, e completou seu MBA na Harvard Business School, em Boston, EUA. Trabalhou como Senior Associate Consultant da maior empresa de consultoria do mundo, a McKinsey & Company. 
 									</br></br>
-									Atualmente é Diretor de Estratégia e Desenvolvimento de novos negócios da Movile e sócio da TopMBA, uma empresa de consultoria para o ingresso de brasileiros nas melhores escolas de MBA do mundo. Suas ideias também podem ser encontradas no blog da Harvard Business Review Brasil e no site <a href="http://www.transforme.is" target="_blank" style="text-decoration: none; color: #ffffff;" > www.transforme.is</a> 
+									Atualmente &#65533; Diretor de Estrat&#65533;gia e Desenvolvimento de novos neg&#65533;cios da Movile e s&#65533;cio da TopMBA, uma empresa de consultoria para o ingresso de brasileiros nas melhores escolas de MBA do mundo. Suas ideias tamb&#65533;m podem ser encontradas no blog da Harvard Business Review Brasil e no site <a href="http://www.transforme.is" target="_blank" style="text-decoration: none; color: #ffffff;" > www.transforme.is</a> 
 								</p>
 								<br/>
 								<p>
@@ -199,7 +199,7 @@
 					</div>
 				</div>
 			</div>
-			<!--Section 3 - A programaÃ§Ã£o -->
+			<!--Section 3 - A programação -->
 			
 			<!-- imagem temporaria -->
 			<!--<div class="section">
@@ -214,9 +214,9 @@
 				<div class="container">
 					<br/>
 					<br/>
-					<h2 style="color:#fff;"><strong>A programação</strong></h2>
+					<h2 style="color:#fff;"><strong>A programa&ccedil;&atilde;o</strong></h2>
 					<p style="color:#fff;">
-						A programação foi desenhada para propiciar um espaço de reflexão pessoal e compartilhamento dessa experiência que julgamos ter sido transformadora na sua vida. Confira abaixo:
+						A programa&ccedil;&atilde;o foi desenhada para propiciar um espa&#65533;o de reflex&#65533;o pessoal e compartilhamento dessa experi&#65533;ncia que julgamos ter sido transformadora na sua vida. Confira abaixo:
 						<br/>
 						<br/>
 						<br/>
@@ -250,7 +250,7 @@
 								Download English
 							</button>
 							<button href="#" class="btn btn-default" style="color:#fff; border-color:#fff;">
-								Download Português
+								Download Portugu&#65533;s
 							</button></h2>
 						</div>
 					</div>
@@ -264,18 +264,26 @@
 					<ol class="carousel-indicators">
 						<li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
 						<li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
-						<li data-target="#carousel-example-generic" data-slide-to="2" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
+						<li data-target="#carousel-example-generic" data-slide-to="4" class="active"></li>
 					</ol>
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
 						<div class="item">
-							<img src="assets/img/carousel_blue.png" alt="Awesome Image">
+							<img src="img/galeria_a.jpg" alt="Swb Experience - Palestra">
 						</div>
 						<div class="item">
-							<img src="assets/img/carousel_green.png" alt="Awesome Image">
+							<img src="img/galeria_b.jpg" alt="Swb Experience - Palestra">
 						</div>
 						<div class="item active">
-							<img src="assets/img/carousel_red.png" alt="Awesome Image">
+							<img src="img/galeria_c.jpg" alt="Swb Experience - Palestra">
+						</div>
+                        <div class="item">
+							<img src="img/galeria_d.jpg" alt="Swb Experience - Palestra">
+						</div>
+                        <div class="item">
+							<img src="img/galeria_e.jpg" alt="Swb Experience - Palestra">
 						</div>
 					</div>
 					<!-- Controls -->
@@ -289,7 +297,7 @@
 					<div class="pull-left">
 						<h2 style="margin: 12px 0 30px;">
 						<button href="#" class="btn btn-default">
-							Baixe a apresentação
+							Baixe a apresenta&#65533;&#65533;o
 						</button></h2>
 					</div>
 					<nav class="pull-right">
@@ -304,7 +312,7 @@
 								<a href="#palestrante">Palestrante</a>
 							</li>
 							<li>
-								<a href="#programacao">Programação</a>
+								<a href="#programacao">Programa&#65533;&#65533;o</a>
 							</li>
 							<li>
 								<a href="#reports">Reports</a>
@@ -320,7 +328,7 @@
 				<div class="container">
 					<img src="img/rodape.png">
 					<p class="copyright" style="color:#fff; padding: 0 45px 0 15px;">
-						csf@pucpr.br  .  +55 41 3271-2112  .  Rua Imaculada Conceição, 1155  .  Bairro Prado Velho  .  80215-901
+						csf@pucpr.br  .  +55 41 3271-2112  .  Rua Imaculada Concei&#65533;&#65533;o, 1155  .  Bairro Prado Velho  .  80215-901
 					</p>
 				</div>
 			</div>
