@@ -84,7 +84,7 @@
 							<a href="#palestrante">Palestrante</a>
 						</li>
 						<li>
-							<a href="#programacao">Programa&#65533;&#65533;o</a>
+							<a href="#programacao">Programação</a>
 						</li>
 						<li>
 							<a href="#reports">Reports</a>
@@ -100,7 +100,7 @@
 					</ul>
 					<ul  class="nav navbar-nav navbar-right">
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <img src="assets/img/flags/BR.png" data-pin-nopin="true"> Portugu&#65533;s<span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"> <img src="assets/img/flags/BR.png" data-pin-nopin="true"> Português<span class="caret"></span></a>
 							</a>
 							<ul class="dropdown-menu">
 								<li>
@@ -128,7 +128,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6">
-							<h2 style="color:#fff; margin: 30px 0 30px;">Inscreva-se pelo site at&eacute; o </br>
+							<h2 style="color:#fff; margin: 30px 0 30px;">Inscreva-se pelo site até o </br>
 							dia <strong>06 de Novembro</strong></h2>
 						</div>
 						<div class="col-md-6">
@@ -146,18 +146,18 @@
 					<div class="row">
 						<h1 id="conheca"></h1>
 						<div class="col-md-6 pull-left">
-							<h2 style="color:#a6272f; padding-left:10px;"><strong>Conhe&#65533;a</strong>
+							<h2 style="color:#a6272f; padding-left:10px;"><strong>Conheça</strong>
 							<br/>
 							o encontro</h2>
 							<br/>
 							<p>
-								Este evento traz a oportunidade de encontro de todos os estudantes bolsistas do Ci&ecirc;ncia sem Fronteiras da PUCPR que j&#65533; retornaram para PUCPR, criando um espa&ccedil;o para compartilhar experi&ecirc;ncias, relembrar das coisas boas da viagem.
+								Este evento traz a oportunidade de encontro de todos os estudantes bolsistas do Ciência sem Fronteiras da PUCPR que já retornaram para PUCPR, criando um espaço para compartilhar experiências, relembrar das coisas boas da viagem.
 								<br/>
 								<br/>
-								A PUCPR tamb&#65533;m quer saber dos bolsistas quais foram as melhores experi&#65533;ncias que tiveram na Universidade Destino, bem como as experi&#65533;ncias ruins.
+								A PUCPR também quer saber dos bolsistas quais foram as melhores experiências que tiveram na Universidade Destino, bem como as experiências ruins.
 								<br/>
 								<br/>
-								Voc&#65533; tem alguma sugest&#65533;o de coisas que viu l&#65533; fora e acha que seria &#65533;timo e vi&#65533;vel ter na PUCPR? Ter no seu curso de gradua&#65533;&#65533;o? Ou vivenciou algum problema que poderia ter sido evitado?
+								Você tem alguma sugestão de coisas que viu lá fora e acha que seria ótimo e viável ter na PUCPR? Ter no seu curso de graduação? Ou vivenciou algum problema que poderia ter sido evitado?
 							</p>
 						</div>
 						
@@ -184,11 +184,11 @@
 								<br/>
 								o palestrante</h2>
 								<p  style="color:#fff;">
-									Orgulhosamente manezinho da Ilha, Alex nasceu na maravilhosa Ilha de Santa Catarina, estudou na Universidade Federal de Santa Catarina, e em 2003 aventurou-se num est&#65533;gio em Potsdam, na Alemanha. 
+									Orgulhosamente manezinho da Ilha, Alex nasceu na maravilhosa Ilha de Santa Catarina, estudou na Universidade Federal de Santa Catarina, e em 2003 aventurou-se num estágio em Potsdam, na Alemanha. 
 									</br></br> 
-									Se apaixonou pelo mundo e nunca mais voltou, no caminho trabalhou como "Jack of all trades" em Londres, fez mestrado no Canad&#65533;, foi trainee e gerente de projetos para a Nestl&#65533;, na Su&#65533;&#65533;a, e completou seu MBA na Harvard Business School, em Boston, EUA. Trabalhou como Senior Associate Consultant da maior empresa de consultoria do mundo, a McKinsey & Company. 
+									Se apaixonou pelo mundo e nunca mais voltou, no caminho trabalhou como "Jack of all trades" em Londres, fez mestrado no Canadá, foi trainee e gerente de projetos para a Nestlé, na Suíça, e completou seu MBA na Harvard Business School, em Boston, EUA. Trabalhou como Senior Associate Consultant da maior empresa de consultoria do mundo, a McKinsey & Company. 
 									</br></br>
-									Atualmente &#65533; Diretor de Estrat&#65533;gia e Desenvolvimento de novos neg&#65533;cios da Movile e s&#65533;cio da TopMBA, uma empresa de consultoria para o ingresso de brasileiros nas melhores escolas de MBA do mundo. Suas ideias tamb&#65533;m podem ser encontradas no blog da Harvard Business Review Brasil e no site <a href="http://www.transforme.is" target="_blank" style="text-decoration: none; color: #ffffff;" > www.transforme.is</a> 
+									Atualmente é Diretor de Estratégia e Desenvolvimento de novos negócios da Movile e sócio da TopMBA, uma empresa de consultoria para o ingresso de brasileiros nas melhores escolas de MBA do mundo. Suas ideias também podem ser encontradas no blog da Harvard Business Review Brasil e no site <a href="http://www.transforme.is" target="_blank" style="text-decoration: none; color: #ffffff;" > www.transforme.is</a>.
 								</p>
 								<br/>
 								<p>
@@ -215,9 +215,9 @@
 				<div class="container">
 					<br/>
 					<br/>
-					<h2 style="color:#fff;"><strong>A programa&ccedil;&atilde;o</strong></h2>
+					<h2 style="color:#fff;"><strong>A programação</strong></h2>
 					<p style="color:#fff;">
-						A programa&ccedil;&atilde;o foi desenhada para propiciar um espa&#65533;o de reflex&#65533;o pessoal e compartilhamento dessa experi&#65533;ncia que julgamos ter sido transformadora na sua vida. Confira abaixo:
+						A programação foi desenhada para propiciar um espaço de reflexão pessoal e compartilhamento dessa experiência que julgamos ter sido transformadora na sua vida. Confira abaixo:
 						<br/>
 						<br/>
 						<br/>
@@ -251,7 +251,7 @@
 								Download English
 							</button>
 							<button href="#" class="btn btn-default" style="color:#fff; border-color:#fff;">
-								Download Portugu&#65533;s
+								Download Português
 							</button></h2>
 						</div>
 					</div>
@@ -298,7 +298,7 @@
 					<div class="pull-left">
 						<h2 style="margin: 12px 0 30px;">
 						<button href="#" class="btn btn-default">
-							Baixe a apresenta&#65533;&#65533;o
+							Baixe a apresentação
 						</button></h2>
 					</div>
 					<nav class="pull-right">
@@ -313,7 +313,7 @@
 								<a href="#palestrante">Palestrante</a>
 							</li>
 							<li>
-								<a href="#programacao">Programa&#65533;&#65533;o</a>
+								<a href="#programacao">Programação</a>
 							</li>
 							<li>
 								<a href="#reports">Reports</a>
@@ -329,7 +329,7 @@
 				<div class="container">
 					<img src="img/rodape.png">
 					<p class="copyright" style="color:#fff; padding: 0 45px 0 15px;">
-						csf@pucpr.br  .  +55 41 3271-2112  .  Rua Imaculada Concei&#65533;&#65533;o, 1155  .  Bairro Prado Velho  .  80215-901
+						csf@pucpr.br  .  +55 41 3271-2112  .  Rua Imaculada Conceição, 1155  .  Bairro Prado Velho  .  80215-901
 					</p>
 				</div>
 			</div>
